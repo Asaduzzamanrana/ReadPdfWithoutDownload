@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDFRead</string>
+    <string name="alert_text">Alert title</string>
+    <string name="message_text"> Prodip kaku you want to exit?</string>
+</resources>
